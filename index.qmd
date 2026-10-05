@@ -45,13 +45,20 @@ Interested in discussing machine learning, AI engineering, or potential opportun
 
 <form name="contact" method="POST" data-netlify="true">
 
-<label for="name">Name</label><br> <input type="text" id="name" name="name" required><br><br>
+  <p>
+    <label for="name">Name</label><br>
+    <input type="text" id="name" name="name" required>
+  </p>
 
-<label for="email">Email</label><br> <input type="email" id="email" name="email" required><br><br>
+  <p>
+    <label for="email">Email</label><br>
+    <input type="email" id="email" name="email" required>
+  </p>
 
-<label for="message">Message</label><br>
-
-  <textarea id="message" name="message" rows="5" required></textarea><br><br>
+  <p>
+    <label for="message">Message</label><br>
+    <textarea id="message" name="message" rows="5" required></textarea>
+  </p>
 
 <button type="submit">Send message</button>
 
@@ -59,5 +66,4 @@ Interested in discussing machine learning, AI engineering, or potential opportun
 
 * [Book a conversation](https://calendly.com/innouguru/career-ml-conversation)
 * [Email me](mailto:innouguru@gmail.com)
-
 
