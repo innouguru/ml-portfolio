@@ -47,17 +47,18 @@ Interested in discussing machine learning, AI engineering, or potential opportun
 
   <p>
     <label for="name">Name</label><br>
-    <input type="text" id="name" name="name" required>
+    <input type="text" id="name" name="name" style="width: 100%; max-width: 600px;" required>
   </p>
 
   <p>
     <label for="email">Email</label><br>
-    <input type="email" id="email" name="email" required>
+    <input type="email" id="email" name="email" style="width: 100%; max-width: 600px;" required>
   </p>
 
   <p>
     <label for="message">Message</label><br>
-    <textarea id="message" name="message" rows="8" required></textarea>  </p>
+    <textarea id="message" name="message" rows="7" style="width: 100%; max-width: 600px;" required></textarea>
+  </p>
 
 <button type="submit">Send message</button>
 
