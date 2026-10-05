@@ -38,6 +38,11 @@ A computer-vision system for identifying plant diseases from leaf images. I trai
 
 I am continuing to develop my machine learning and AI engineering skills through hands-on projects, with a focus on building useful systems and understanding the engineering decisions behind them.
 
+
 ## Contact
 
-If you would like to discuss my work or opportunities in machine learning and AI engineering, you can reach me at [innouguru@gmail.com](mailto:innouguru@gmail.com).
+Interested in discussing machine learning, AI engineering, or potential opportunities?
+
+* [Book a conversation](https://calendly.com/innouguru/career-ml-conversation)
+* [Email me](mailto:innouguru@gmail.com)
+
