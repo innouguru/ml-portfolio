@@ -57,8 +57,7 @@ Interested in discussing machine learning, AI engineering, or potential opportun
 
   <p>
     <label for="message">Message</label><br>
-    <textarea id="message" name="message" rows="5" required></textarea>
-  </p>
+    <textarea id="message" name="message" rows="8" required></textarea>  </p>
 
 <button type="submit">Send message</button>
 
